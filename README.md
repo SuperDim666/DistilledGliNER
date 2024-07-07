@@ -80,7 +80,7 @@ However, from [figure 5](#fig5) and [6](#fig6), we observed completely different
 |     GliNER     |     100%     |    100%    |     2.1B      |
 | Student Model  |     86%      |    69%     |      6M       |
 |  Distilled SM  |     99%      |    97%     |      6M       |
-Table 1: Comparison of Model Performances
+[Table 1: Comparison of Model Performances]
 
 Last, we compare the student model with the original GliNER model. We can see from the [table
 1](#table1) that the distilled student model does not lose
