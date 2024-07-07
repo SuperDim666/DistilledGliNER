@@ -101,10 +101,14 @@ In this study, we have demonstrated the effectiveness of knowledge distillation 
 Furthermore, this study highlights the potential of knowledge distillation as a valuable technique for model compression and efficiency. By distilling a complex model like GliNER into a simpler LSTM architecture without significant loss in performance, we demonstrate the feasibility of deploying more efficient models in resource-constrained environments while maintaining high accuracy.
 
 ## <a id="references"></a>References
-<a id="ref1"></a>Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015. [Distilling the knowledge in a neural network](http://arxiv.org/abs/1503.02531).
+<a id="ref1"></a>
+* Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015. [Distilling the knowledge in a neural network](http://arxiv.org/abs/1503.02531).
 
-<a id="ref2"></a>Ahmad Rashid, Vasileios Lioutas, Abbas Ghaddar, and Mehdi Rezagholizadeh. 2020. [Towards zero-shot knowledge distillation for natural language processing](http://arxiv.org/abs/2012.15495).
+<a id="ref2"></a>
+* Ahmad Rashid, Vasileios Lioutas, Abbas Ghaddar, and Mehdi Rezagholizadeh. 2020. [Towards zero-shot knowledge distillation for natural language processing](http://arxiv.org/abs/2012.15495).
 
-<a id="ref3"></a>Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, and Guoping Hu. 2020. [Textbrewer: An open-source knowledge distillation toolkit for natural language processing](https://doi.org/10.18653/v1/2020.acl-demos.2). In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations*. Association for Computational Linguistics.
+<a id="ref3"></a>
+* Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, and Guoping Hu. 2020. [Textbrewer: An open-source knowledge distillation toolkit for natural language processing](https://doi.org/10.18653/v1/2020.acl-demos.2). In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations*. Association for Computational Linguistics.
 
-<a id="ref4"></a>Urchade Zaratiana, Nadi Tomeh, Pierre Holat, and Thierry Charnois. 2023. [Gliner: Generalist model for named entity recognition using bidirectional transformer](http://arxiv.org/abs/2311.08526).
+<a id="ref4"></a>
+* Urchade Zaratiana, Nadi Tomeh, Pierre Holat, and Thierry Charnois. 2023. [Gliner: Generalist model for named entity recognition using bidirectional transformer](http://arxiv.org/abs/2311.08526).
